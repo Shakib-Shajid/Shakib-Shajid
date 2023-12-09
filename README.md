@@ -15,5 +15,10 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.freecodecamp.org/news/content/images/2021/08/vscode.png" alt="vs code" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmsshakil&show_icons=true&locale=en&layout=compact" alt="shakib-shajid" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmsshakil&" alt="shakib-shajid" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmsshakil&show_icons=true&locale=en" alt="shakib-shajid" /></p>
