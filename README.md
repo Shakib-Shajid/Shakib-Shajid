@@ -1,4 +1,4 @@
-<img src="react.jpg">
+<img src="react.png">
 <h1 align="center">Hi 👋, I'm Shakib Al Shajid</h1>
 <h3 align="center">Front End Developer</h3>
 
