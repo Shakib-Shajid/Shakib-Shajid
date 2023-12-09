@@ -31,7 +31,7 @@
 
 </p>
 <p align="left">
-<p>Tools</p>
+<p>Tools:</p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.freecodecamp.org/news/content/images/2021/08/vscode.png" alt="vs code" width="40" height="40"/> </a>
