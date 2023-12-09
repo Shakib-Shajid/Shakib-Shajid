@@ -17,8 +17,8 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shakib Al Shajid&show_icons=true&locale=en&layout=compact" alt="shakib-shajid" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib-shajid&show_icons=true&locale=en&layout=compact" alt="shakib-shajid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmsshakil&" alt="shakib-shajid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-shajid&" alt="shakib-shajid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmsshakil&show_icons=true&locale=en" alt="shakib-shajid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakib-shajid&show_icons=true&locale=en" alt="shakib-shajid" /></p>
