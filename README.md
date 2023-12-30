@@ -39,7 +39,7 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.freecodecamp.org/news/content/images/2021/08/vscode.png" alt="vs code" width="50" height="50"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://i.ibb.co/HhrJP34/xd.png" alt="xd" width="50" height="50"/> </a>
 
 </p>
 
