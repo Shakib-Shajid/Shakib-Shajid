@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shakibalshajid1682@gmail.com**
 
-- 🌐 Portfolio link **https://my-portfolio-6ddb0.web.app/**
+- 🌐 Portfolio link **https://my-portfolio-tau-three-26.vercel.app/**
 
 <h3 align="left">About me:</h3>
 <p>I am a Front End Developer. I use react for my project. I also use tailwind css, bootstrap, daisyui and firebase for my projects. </p>
