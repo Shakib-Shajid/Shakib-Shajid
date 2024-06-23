@@ -19,7 +19,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <h5>1. Front End: </h5>
-<a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="android" width="50" height="50"/> </a>  
+<a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="50" height="50"/> </a>  
+<a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/180px-Nextjs-logo.svg.png" alt="nextjs" width="50" height="50"/> </a>  
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/219px-Javascript_badge.svg.png?20160504163251" alt="js" width="50" height="50"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
 <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/hl8zoliad/image/fetch/f_auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsaadeghi%2Fdaisyui%2Fmaster%2Fsrc%2Fdocs%2Fstatic%2Fimages%2Fdaisyui-logo%2Ffavicon-192.png" alt="daisyui" width="50" height="50"/> </a>
