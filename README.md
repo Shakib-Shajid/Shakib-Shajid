@@ -14,7 +14,7 @@
 <p>I am a Web Developer. I use react and nextjs for my project. I also use tailwind css, daisyui, next auth, firebase, mongodb and express for my projects. </p>
 
 <h3 align="left">Currently Using:</h3>
-<p>I have a clear knowledge about nextjs and now I am focusing on backend to make myself as a MERN stack developer. I am currently on it. </p>
+<p>I have a good knowledge about react and nextjs. Now I am focusing on backend to make myself as a MERN stack developer. I am currently on it. </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
