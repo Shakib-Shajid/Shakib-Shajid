@@ -1,20 +1,20 @@
 <img src="react.png">
 <h1 align="center">Hi 👋, I'm Shakib Al Shajid</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React and Next.js**
 
 - 📫 How to reach me **shakibalshajid1682@gmail.com**
 
 - 🌐 Portfolio link **https://my-portfolio-tau-three-26.vercel.app/**
 
 <h3 align="left">About me:</h3>
-<p>I am a Front End Developer. I use react for my project. I also use tailwind css, bootstrap, daisyui and firebase for my projects. </p>
+<p>I am a Web Developer. I use react and nextjs for my project. I also use tailwind css, daisyui, next auth, firebase, mongodb and express for my projects. </p>
 
 <h3 align="left">Currently Using:</h3>
-<p>I have a clear knowledge about react and now I am focusing on backend to make myself as a MERN stack developer. I am currently on it. </p>
+<p>I have a clear knowledge about nextjs and now I am focusing on backend to make myself as a MERN stack developer. I am currently on it. </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
