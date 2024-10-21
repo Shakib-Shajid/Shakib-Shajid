@@ -39,7 +39,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.ibb.co/3CmQxXX/vsCode.jpg" alt="vs code" width="50" height="50"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
-<a href="https://next-auth.js.org" target="_blank"> <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="next auth" width="50" height="50"/> </a>
+<a href="https://next-auth.js.org" target="_blank"> <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="next_auth" width="50" height="50"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://i.ibb.co/HhrJP34/xd.png" alt="xd" width="50" height="50"/> </a>
 
